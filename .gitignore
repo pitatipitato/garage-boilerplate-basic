@@ -48,7 +48,7 @@ Thumbs.db
 *.log
 *.tsbuildinfo
 .turbo/
-service-account.json
+service-acc.json
 docs/BOILERPLATE-COMPARISON.md
 docs/BOILERPLATE-BENCHMARK.md
 
